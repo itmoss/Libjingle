@@ -6,6 +6,8 @@ Tested evironments :
 ubuntu 14x 64bit. 
 
 
+#build
+if u first time buiing, enter script install.sh 
 
 
 

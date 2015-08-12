@@ -21,6 +21,7 @@ ubuntu 14x 64bit.
 - Check your work space directory then change this section. 
 - Do build.sh 
 - Done.
+- check this directory  /build/dbg/stage/call 
 
 
 

@@ -27,4 +27,5 @@ ubuntu 14x 64bit.
 
 
 #Reference
+https://developers.google.com/talk/libjingle/developer_guide
 https://sites.google.com/site/libjinglekor/home
